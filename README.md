@@ -1,2 +1,4 @@
-#Leetcode #vjec #devika 
 # Leetcode
+# DEVIKA
+# REVERSE_INTEGER
+# REVERSE_STRING
